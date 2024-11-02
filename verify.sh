@@ -2,7 +2,7 @@ echo
 sudo apt-get update && sudo apt-get upgrade -y && sudo apt-get install -y libzmq3-dev libczmq-dev pkg-config && wget -c https://go.dev/dl/go1.23.0.linux-amd64.tar.gz 
  
 
-sleep 7
+sleep 60
 
 
 
